@@ -1,7 +1,8 @@
 bazel-*
 node_modules
+target
 build_tools/npm-thirdparty
 build_tools/npm_version_cache
 build_tools/npm_dependency_cache
-foo/BUILD
+BUILD
 WORKSPACE

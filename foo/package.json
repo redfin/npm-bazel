@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bar": "^1.0.0",
     "react": "^0.14.8",
     "react-dom": "^0.14.8",
     "react-server": "^0.2.10",
