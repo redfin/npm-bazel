@@ -1,0 +1,7 @@
+bazel-*
+node_modules
+build_tools/npm-thirdparty
+build_tools/npm_version_cache
+build_tools/npm_dependency_cache
+foo/BUILD
+WORKSPACE
