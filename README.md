@@ -4,6 +4,15 @@ This project provides a generator tool, `npm-bazel-gen.py`, to generate `WORKSPA
 
 This is a public clone of code that we're using internally at [Redfin](https://www.redfin.com/). The version we actually use seems to be working, but we cannot guarantee that this repository will be stable/maintained. (But hope springs eternal, and if people seem to like it, we could stabilize it further.)
 
+# Getting Started
+
+Generate the `WORKSPACE` and `BUILD` files using the Python script, then build the example projects.
+
+```
+python npm-bazel-gen.py
+bazel build foo
+```
+
 # Background
 
 ## Required knowledge
